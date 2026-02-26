@@ -10,7 +10,7 @@ A collection of open source AI experiments, agent frameworks, and developer tool
 
 ## Projects 🚀
 
-- **[tomchat-app](https://github.com/sixteen-dev/tomchat-app)** - (add one-liner)
+- **[tomchat-app](https://github.com/sixteen-dev/tomchat-app)** - Talk to your computer. TomChat transcribed your voice directly into any applications - entirely offline, entirely private.
 - **[bookmarkbrain](https://github.com/sixteen-dev/bookmarkbrain)** - AI-powered bookmark organizer for Chrome 🔖
 - **[pyaibridge](https://github.com/sixteen-dev/pyaibridge)** - High-performance unified API library for interacting with multiple LLM providers, with automatic retry logic, cost tracking, metrics collection, and streaming support 🔗
 - More coming soon, including an open source financial research agent 📈
