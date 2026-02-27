@@ -19,7 +19,7 @@ A collection of open source AI experiments, agent frameworks, and developer tool
 
 We welcome contributions, ideas, and collaborations. Whether you want to fix a bug, propose a feature, or just discuss ideas, reach out before opening a PR so we can align on direction.
 
-Drop us an email at [contact@sixteen.dev](mailto:contact@sixteen.dev) to get started. 📬
+Drop us an email at [collab@sixteen.dev](mailto:collab@sixteen.dev) to get started. 📬
 
 ## Support ❤️
 
